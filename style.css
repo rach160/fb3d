@@ -325,7 +325,7 @@ body {
   position: absolute;
   pointer-events: auto;
   background-image: url("https://assets.codepen.io/5896374/crate-box.jpg");
-  background-image: url("images/3rachid.jpg");
+  background-image: url("3rachid.jpg");
 
   background-size: cover;
   box-shadow: inset 0 0 calc(0.25 * var(--cubescale)) rgba(0, 0, 0, 0.5),
@@ -497,7 +497,7 @@ body {
   height: 200vh;
   background-color: #111;
   background-image: url("https://assets.codepen.io/5896374/shack-mountain.jpg");
-  background-image: url("images/3rachid.jpg");
+  background-image: url("3rachid.jpg");
   background-size: 150vmin;
   background-position: center;
   background-repeat: repeat;
@@ -590,7 +590,7 @@ body {
   height: 70vmin;
   transform-origin: bottom center;
   background-image: url("https://assets.codepen.io/5896374/cage-2023.png");
-  background-image: url("images/rachid.jpg");
+  background-image: url("rachid.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom center;
@@ -738,7 +738,7 @@ body {
 .shelf-level > div:not(.item),
 .cube.shelf > div {
   background-image: url("https://assets.codepen.io/5896374/old-wood-texture.jpg");
-  background-image: url("images/famillebounoua.jpg");
+  background-image: url("famillebounoua.jpg");
   
 }
 
